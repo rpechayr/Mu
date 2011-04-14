@@ -1,0 +1,9 @@
+{
+  "name": "mu-packaged",
+  "description": "Mustache template engine for node js ",
+  "keywords": ["template", "mustache", "compiler"],
+  "version": "0.0.2",
+  "author": "Romain Pechayre <rpechayr@gmail.com>",
+  "main": "./index.js",
+  "engines": { "node": ">= 0.4.5" }
+}
